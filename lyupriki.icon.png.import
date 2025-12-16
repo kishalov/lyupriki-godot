@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bcdwkwlcqclt6"
-path="res://.godot/imported/lyupriki.icon.png-72d84d347e7a96b942d7268b14e77542.ctex"
+path="res://.godot/imported/lyupriki.icon.png-efda174051690e6c8e87be2fc0ef13ef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://web/lyupriki.icon.png"
-dest_files=["res://.godot/imported/lyupriki.icon.png-72d84d347e7a96b942d7268b14e77542.ctex"]
+source_file="res://lyupriki-web-test/lyupriki.icon.png"
+dest_files=["res://.godot/imported/lyupriki.icon.png-efda174051690e6c8e87be2fc0ef13ef.ctex"]
 
 [params]
 
